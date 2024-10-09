@@ -23,7 +23,7 @@ For more complex contributions, please open an issue using the most appropriate 
 
 If you're looking for a way to contribute, you can scan through our [help wanted board](https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) to find open issues already approved for work.
 
-### And that's it!
+### And that's it! Thanks
 
 If you're having trouble with your GitHub account, contact [Support](https://support.github.com).
 
